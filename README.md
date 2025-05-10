@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Xiaobao Wu
 
-- 🔭 I'm a PhD candidate at NTU, Singapore.
+- 🔭 I'm now a Research Scientist at NTU, Singapore.
 - 👯 Contact me: <a href='xiaobao002@e.ntu.edu.sg'>Email</a> and <a href="https://bobxwu.github.io">Homepage</a>
 
 <a href="https://bobxwu.github.io/">
